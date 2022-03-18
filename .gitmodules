@@ -19,3 +19,6 @@
 [submodule "module/Report"]
 	path = module/Report
 	url = ssh://git@github.com/comcduarte/com-report
+[submodule "module/Form"]
+	path = module/Form
+	url = ssh://git@github.com/comcduarte/com-form

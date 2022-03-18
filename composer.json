@@ -37,7 +37,8 @@
 			"User\\" : "module/User/src",
 			"Files\\" : "module/Files/src",
 			"Report\\" : "module/Report/src",
-			"Annotation\\" : "module/Annotation/src"
+			"Annotation\\" : "module/Annotation/src",
+			"Form\\" : "module/Form/src"
 		}
 	},
 	"autoload-dev" : {

@@ -28,6 +28,7 @@ return [
     'Annotation',
     'Components',
     'Files',
+    'Form',
     'Report',
     'Settings',
     'User',
