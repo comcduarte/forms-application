@@ -1,0 +1,21 @@
+[submodule "module/Acl"]
+	path = module/Acl
+	url = ssh://git@github.com/comcduarte/com-acl
+[submodule "module/Components"]
+	path = module/Components
+	url = ssh://git@github.com/comcduarte/com-ponents
+[submodule "module/Settings"]
+	path = module/Settings
+	url = ssh://git@github.com/comcduarte/com-settings
+[submodule "module/User"]
+	path = module/User
+	url = ssh://git@github.com/comcduarte/com-user
+[submodule "module/Annotation"]
+	path = module/Annotation
+	url = ssh://git@github.com/comcduarte/com-annotation
+[submodule "module/Files"]
+	path = module/Files
+	url = ssh://git@github.com/comcduarte/com-files
+[submodule "module/Report"]
+	path = module/Report
+	url = ssh://git@github.com/comcduarte/com-report
